@@ -1,6 +1,6 @@
 ### 1. Carregar pacotes necessários e importar dados
 
-### 1.1 Carregar pacotes
+### 1.1 Carregar pacotes 
 
 library(sidrar)
 library(tidyverse)
